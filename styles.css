@@ -1,1 +1,52 @@
+h1
+{
 
+            font-size: 2.5em;
+}
+
+h2
+{
+	
+            font-size: 1.5em;
+}
+
+img 
+{
+  max-width: 100%;
+  height: auto;
+}
+
+body 
+{
+	margin: 0em;
+}
+	
+a
+{
+		color:inherit;
+}
+
+table, th, td
+{
+  width:100%;
+  border-spacing: 1px;
+  border: 2px solid white;
+  border-collapse: collapse;
+  padding: 5px;
+}
+th
+{
+   color:white;
+}
+.whites
+{
+	background-color: white;
+	color:black;
+	padding: 10%;
+	} 
+.blacks
+{
+	background-color: black;
+	color:white;
+	padding: 10%;
+} 
