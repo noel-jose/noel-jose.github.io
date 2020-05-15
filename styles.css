@@ -1,52 +1,41 @@
-h1
-{
-
-            font-size: 2.5em;
+body{
+	background-color: #000000;
+	color:#ffffff;
+	font-family: "open_sansregular",sans-serif;
+	font-size: 30px;
+	margin-left: 1.75em;
+	margin-top: 2.5em;
 }
-
-h2
-{
+nav{
+	padding-left: 70px;
+	color: #000000;
 	
-            font-size: 1.5em;
 }
-
-img 
-{
-  max-width: 100%;
-  height: auto;
-}
-
-body 
-{
-	margin: 0em;
-}
+img{
+	height: 60px;
+	width: 60px;
+	background-color: #ffffff;
+	color:inherit;
+	margin-right: 25px;
 	
-a
-{
-		color:inherit;
 }
+h1 {
+	font-weight: 500;
+	font-size: 3.5em;
+	padding-bottom: 1px;
+	margin-bottom: 0px;
+}
+h2{
+	font-weight: 400;
+	
+}
+div{
+	padding-left: 70px;
+}
+.intro{
+	font-size: 10px;
+	background-color: #ffffff;
+}
+#linkedin{
 
-table, th, td
-{
-  width:100%;
-  border-spacing: 1px;
-  border: 2px solid white;
-  border-collapse: collapse;
-  padding: 5px;
 }
-th
-{
-   color:white;
-}
-.whites
-{
-	background-color: white;
-	color:black;
-	padding: 10%;
-	} 
-.blacks
-{
-	background-color: black;
-	color:white;
-	padding: 10%;
-} 
